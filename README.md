@@ -66,4 +66,4 @@
 
 * **NCBI Protein Database:** [Human Deoxyribonuclease II (DNASE2) RefSeq Record - NP_001366.1](https://www.ncbi.nlm.nih.gov/protein/NP_001366.1)
 * **NCBI Gene Database:** [Human DNASE2 Gene Entry - Gene ID: 1777](https://www.ncbi.nlm.nih.gov/gene/1777)
-* 
+  
