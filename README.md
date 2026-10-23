@@ -23,12 +23,17 @@
 
 ## Figures and Descriptions
 
+<img width="2048" height="1152" alt="41225" src="https://github.com/user-attachments/assets/566ae9bc-6c5d-45ff-9c18-81206a774193" />
+
 ### Figure 1: Amino Acid Composition
-![DNASE2 Amino Acid Composition](figures/DNASE2_amino_acid_composition.png)
+
 * **Description:** A bar chart illustrating the distribution and frequency of each standard amino acid across the 360-amino-acid sequence of human DNASE2. Leucine (L) displays the highest abundance in the primary structure (43 residues, 11.94%), followed by Alanine (A) (36 residues, 10.00%) and Serine (S) (29 residues, 8.06%).
 
+
+<img width="2400" height="900" alt="41298" src="https://github.com/user-attachments/assets/71fb0561-c96a-420c-8b8b-fde8678f9edd" />
+
 ### Figure 2: Potential N-Glycosylation Motifs
-![DNASE2 Potential N-Glycosylation Motifs](figures/DNASE2_potential_N_glycosylation.png)
+
 * **Description:** A linear sequence coordinate map depicting the locations of 5 predicted N-glycosylation motifs (N-X-S/T, where X ≠ P) along the DNASE2 polypeptide chain at positions 86, 211, 252, 275, and 328.
 
 ---
